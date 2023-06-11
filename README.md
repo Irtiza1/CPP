@@ -5,4 +5,3 @@ All c++ features available in that repository that might help those who wants le
   <img src="https://contrib.rocks/image?repo=Irtiza1/CPP" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
