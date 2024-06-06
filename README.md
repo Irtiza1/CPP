@@ -42,8 +42,7 @@ To run the examples in this repository, you need to have a C++ compiler installe
 1. Clone the repository:
    ```sh
    git clone https://github.com/Irtiza1/CPP.git
-
-# CPP
+   
 All c++ features available in that repository that might help those who wants learning C++ from beginning
 <a href="https://github.com/Irtiza1/CPP/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Irtiza1/CPP" />
